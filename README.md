@@ -1,1 +1,0 @@
-# Math-Modeling-2025
