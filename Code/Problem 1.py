@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-烟幕干扰弹对导弹有效遮蔽时长分析
-作者: AI Assistant
-日期: 2024
-"""
+
 
 import numpy as np
 import math
@@ -292,4 +288,5 @@ def main():
     print(f"烟幕干扰弹对导弹M1的有效遮蔽时长为: {total_time:.3f} 秒")
 
 if __name__ == "__main__":
+
     main()
